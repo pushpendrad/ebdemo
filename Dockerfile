@@ -19,7 +19,7 @@ ENV CATALINA_BASE /var/lib/tomcat7/
 ENV PATH $CATALINA_HOME/bin:$PATH
 #RUN mkdir -p "$CATALINA_HOME"
 #WORKDIR $CATALINA_HOME
-
+ 
 RUN apt-get install -y wget
 
 COPY ./target/*.war /var/lib/tomcat7/webapps/EmployeeApplication.war 
