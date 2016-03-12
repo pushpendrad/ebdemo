@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /EmployeeManagementSystem-1.0-SNAPSHOT.war
+  - source: /EmployeeApplication_null.war
     destination: /var/lib/tomcat8/webapps
 hooks:
   BeforeInstall:
