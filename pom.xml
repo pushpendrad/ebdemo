@@ -7,7 +7,6 @@
 	<version>1.0-SNAPSHOT</version>
 	<!--<name>ems_1.7_updated_plugins</name>-->
 	<url>http://maven.apache.org</url>
-
 	<repositories>
 		<repository>
 			<id>spring.test-mvc</id>
