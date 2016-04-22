@@ -81,7 +81,7 @@ a:hover {color:#80A24A;}   /* mouse over link */
 <body>
 <div id="header_container">
     <div id="header">
-       Employee Management System @ ALM_TEAM
+       Employee Management DEMO FOR 22ND APR
     </div>
 </div>
 <div class="smart-green" >
